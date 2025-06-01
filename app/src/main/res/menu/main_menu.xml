@@ -13,8 +13,8 @@
         android:title="Quit"
         app:showAsAction="ifRoom" />
     <item
-        android:id="@+id/action_settting"
-        android:icon="@drawable/baseline_settings_24"
-        android:title="Setting"
+        android:id="@+id/action_reset"
+        android:icon="@drawable/baseline_restore_24"
+        android:title="Reset"
         app:showAsAction="ifRoom" />
 </menu>
